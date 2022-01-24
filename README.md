@@ -20,11 +20,12 @@ Páginas obrigatórias:
 
     - Listagem dos produtos (Produtos da API pública).
 
-             - Nessa página, deve ser possível adicionar um item ao carrinho, e acessar o carrinho de alguma forma.
+        - Nessa página, deve ser possível adicionar um item ao carrinho, e acessar o carrinho de alguma forma.
 
     - Carrinho de compras
 
-             - Dentro do carrinho, devemos conseguir ver os produtos adicionados, alterar a quantidade de cada produto, deletar um item e limpar o carrinho.
+        - Dentro do carrinho, devemos conseguir ver os produtos adicionados, alterar a quantidade de cada produto, 
+          deletar um item e limpar o carrinho.
 
     - Mostrar, de alguma forma, as informações nutricionais dos produtos.
 
