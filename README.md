@@ -24,8 +24,8 @@ Páginas obrigatórias:
 
     - Carrinho de compras
 
-        - Dentro do carrinho, devemos conseguir ver os produtos adicionados, alterar a quantidade de cada produto, 
-          deletar um item e limpar o carrinho.
+        - Dentro do carrinho, devemos conseguir ver os produtos adicionados, alterar a quantidade de cada 
+          produto, deletar um item e limpar o carrinho.
 
     - Mostrar, de alguma forma, as informações nutricionais dos produtos.
 
